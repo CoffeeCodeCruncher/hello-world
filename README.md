@@ -1,2 +1,2 @@
 # hello-world
-Hello World!
+This is a readme, done to understand the basic GitHub process.
